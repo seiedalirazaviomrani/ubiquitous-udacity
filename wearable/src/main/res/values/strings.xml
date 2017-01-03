@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wearable</string>
+    <string name="my_digital_name">Sunshine</string>
+    <string name="digital_am">AM</string>
+    <string name="digital_pm">PM</string>
+
+</resources>
